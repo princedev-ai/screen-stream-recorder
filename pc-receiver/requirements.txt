@@ -1,0 +1,7 @@
+PySide6>=6.10.1,<7
+av>=16.0.0,<17
+numpy>=2.3.0,<3
+sounddevice>=0.5.1,<1
+websocket-client>=1.8.0,<2
+zeroconf>=0.148.0,<1
+pyinstaller>=6.11.0,<7
