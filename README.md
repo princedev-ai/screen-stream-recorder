@@ -13,7 +13,12 @@ Yeh repository ek native Android screen recorder + Windows PC companion receiver
 - UDP LAN discovery for the PC receiver
 - Low-latency H.264 packet stream to the PC app
 - Python/PySide PC viewer in `pc-receiver/`
-- Hindi/Hinglish setup and troubleshooting docs in `docs/`
+- English and Hindi/Hinglish setup and troubleshooting docs in `docs/`
+
+## User manuals
+
+- [English user manual](docs/ENGLISH_USER_MANUAL.md)
+- [Hindi/Hinglish user manual](docs/HINDI_USER_MANUAL.md)
 
 ## Important Android privacy limitation
 
