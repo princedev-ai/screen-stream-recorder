@@ -1,4 +1,6 @@
-# Android Screen Recorder and PC Live Viewer
+# screen-stream-recorder
+
+Real-time screen mirroring and monitoring solution - stream your mobile screen, camera, and audio directly to your desktop.
 
 Yeh repository ek native Android screen recorder + Windows PC companion receiver ka starter project hai.
 
